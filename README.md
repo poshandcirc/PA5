@@ -1,7 +1,6 @@
 # PA5
 
 ## Files:
-
 ## precinct-pa-5.txt
 Txt file with a list of precincts (aggregate by town, no numbers) in Pennsylvania's Fifth Congressional District, in alphabetical order with a single item per line.
 
